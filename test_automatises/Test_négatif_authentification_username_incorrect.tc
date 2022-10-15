@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_négatif_authentification_username_incorrect</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87c095f1-70e7-40a3-b3c4-73694d1fd651</testCaseGuid>
+</TestCaseEntity>

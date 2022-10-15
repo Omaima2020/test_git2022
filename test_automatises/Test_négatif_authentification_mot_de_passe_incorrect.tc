@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_négatif_authentification_mot_de_passe_incorrect</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15570088-4381-4937-b752-a8716fc3fad4</testCaseGuid>
+</TestCaseEntity>
